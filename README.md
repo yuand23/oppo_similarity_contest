@@ -1,6 +1,6 @@
 # oppo_similarity_contest
 2021全球人工智能技术创新大赛（赛道三）: oppo小布助手对话短文本语义匹配
-[比赛介绍页面](https://tianchi.aliyun.com/competition/entrance/531851/introduction?spm=5176.12281976.0.0.706d22c6WTCVDa)
+[比赛页面](https://tianchi.aliyun.com/competition/entrance/531851/introduction?spm=5176.12281976.0.0.706d22c6WTCVDa)
 
 ## 比赛内容简介
 给定两个短句，构建模型判断这两个句子的语义是否相似，本质上是个二分类问题。
